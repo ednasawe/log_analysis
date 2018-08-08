@@ -1,0 +1,8 @@
+Logs Analysis Printed Report will print out the:
+
+1. The Most Popular Articles
+
+2. The Most Popular Authors:
+
+3. The date and percentage of when the requests led to errors 
+
